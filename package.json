@@ -22,7 +22,7 @@
     "css"
   ],
   "dependencies": {
-    "csso": "~1.3.11",
+    "csso": "wizza/csso#33d4b966c89616706cb1728c26fd15cf0d89b229",
     "gulp-util": "~3.0.2"
   },
   "devDependencies": {
